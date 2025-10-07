@@ -1,9 +1,0 @@
-numpy
-pandas
-matplotlib
-plotly
-scikit-learn
-joblib
-streamlit
-py3Dmol
-rdkit
