@@ -1,0 +1,7 @@
+streamlit
+pandas
+joblib
+py3dmol
+openbabel
+requests
+Pillow
